@@ -1,0 +1,11 @@
+<?xml version ="1.0" encoding ="utf-8"?><!--  Learn More about how to use App Actions: https://developer.android.com/guide/actions/index.html -->
+<resources>
+    <paths>
+        <files-path name="my_files" path="mazaiting/"/>
+        <cache-path name="my_cache"  path="mazaiting/"/>
+        <external-files-path name="external-files-path" path="mazaiting/"/>
+        <external-cache-path name="name" path="mazaiting/" />
+        <!--示例使用路径-->
+        <external-path  name="download" path=""/>
+    </paths>
+</resources>
